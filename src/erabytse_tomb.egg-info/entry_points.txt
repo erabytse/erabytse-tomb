@@ -1,0 +1,2 @@
+[console_scripts]
+erabytse-tomb = erabytse.tomb:main

@@ -1,0 +1,39 @@
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+ENV/
+
+# Fichiers temporaires et caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints
+
+# Fichiers système
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fichiers de logs et journaux générés
+*.log
+tomb_report.json
+tomb.html
+.erabytse_journal.json
+
+# Fichiers de test locaux (à adapter selon tes besoins)
+test.md
+temp/
+*.tmp
+
+# Editeurs
+.vscode/
+.idea/
+*.swp
+*.swo
