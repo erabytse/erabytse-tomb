@@ -25,4 +25,5 @@ erabytse-tomb --file ./my_blog.md --dry-run
 📜 License
 MIT — used with intention.
 
-Part of erabytse — a quiet rebellion against digital waste.
+
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
