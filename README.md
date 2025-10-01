@@ -19,11 +19,14 @@
 
 ## 🚀 Quick Start
 
-pip install -e .
+pip install erabytse-tomb
 erabytse-tomb --file ./my_blog.md --dry-run
-
+* A tomb.html memorial page and tomb_report.json will be saved in the same directory.
+  No link is modified in your original file — you decide what to do next.
+  
 📜 License
 MIT — used with intention.
 
 
 Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
