@@ -17,6 +17,14 @@
   - `tomb.html` (human-readable memorial page)
 - **No automatic replacement** — you decide what to do next
 
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
+Made with care, not with noise.
+
+## 💙 Support
+If you use and value this tool, consider supporting its development:  
+[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
+
 ## 🚀 Quick Start
 
 pip install erabytse-tomb
@@ -24,9 +32,5 @@ erabytse-tomb --file ./my_blog.md --dry-run
 * A tomb.html memorial page and tomb_report.json will be saved in the same directory.
   No link is modified in your original file — you decide what to do next.
   
-📜 License
-MIT — used with intention.
 
-
-Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
 
