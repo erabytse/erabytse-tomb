@@ -27,10 +27,11 @@ If you use and value this tool, consider supporting its development:
 
 ## 🚀 Quick Start
 
-pip install erabytse-tomb
+pip install erabytse-tomb\n
 erabytse-tomb --file ./my_blog.md --dry-run
 * A tomb.html memorial page and tomb_report.json will be saved in the same directory.
   No link is modified in your original file — you decide what to do next.
   
+
 
 
